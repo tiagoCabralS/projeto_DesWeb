@@ -1,0 +1,26 @@
+:root{
+    --bege: #DDDCC5;
+    --marrom: #958976;
+    --vermelho: #611427;
+    --cinza-escuro: #1D2326;
+    --cinza-claro: #6A6A61;
+}
+body{
+    background-color: var(--cinza-escuro);
+}
+header{
+    padding: 10px;
+    background-color: var(--cinza-escuro);
+}
+main{
+    margin-top: 60px;
+}
+p{
+    color: white;
+}
+.img-thumbnail{
+    width: 300px;
+}
+.container > p{
+    text-align: justify;
+}
