@@ -24,3 +24,18 @@ p{
 .container > p{
     text-align: justify;
 }
+.card-title{
+    color: white;
+}
+.card-body > ul > li{
+    color: white;
+}
+.card-footer{
+    background-color: transparent;
+}
+iframe{
+    width: 35vw;
+}
+.col > p{
+    text-align: justify;
+}
